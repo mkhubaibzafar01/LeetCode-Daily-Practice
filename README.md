@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0214-shortest-palindrome) |
 ## Rolling Hash
 |  |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0214-shortest-palindrome) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
