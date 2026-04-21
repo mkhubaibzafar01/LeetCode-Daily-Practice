@@ -3,12 +3,12 @@
  * @return {boolean}
  */
 var isPalindrome = function(s) {
-    // 1. تمام حروف کو چھوٹا کریں اور صرف alphanumeric (a-z, 0-9) حروف رکھیں
+    // 1. تمام غیر ضروری نشانات اور سپیس ختم کریں اور چھوٹے حروف (lowercase) میں بدلیں
     let cleanStr = s.toLowerCase().replace(/[^a-z0-9]/g, '');
     
     // 2. اسٹرنگ کو الٹا کریں
     let reversedStr = cleanStr.split('').reverse().join('');
     
-    // 3. چیک کریں کہ کیا اصل اور الٹی اسٹرنگ ایک جیسی ہیں
+    // 3. اگر سیدھی اور الٹی اسٹرنگ ایک جیسی ہے، تو یہ palindrome ہے
     return cleanStr === reversedStr;
 };
