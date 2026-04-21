@@ -1,3 +1,5 @@
+I am a passionate front-end developer who loves turning ideas into interactive and visually engaging web experiences. I focus on writing clean, efficient, and scalable code while continuously improving my problem-solving skills through daily coding challenges. I enjoy working with modern JavaScript technologies and building real-world projects that reflect creativity and functionality. Always eager to learn, grow, and push my limits in the world of web development.
+
 # LeetCode-Daily-Practice
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
