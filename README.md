@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0189-rotate-array) |
+| [1512-number-of-good-pairs](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0771-jewels-and-stones) |
+| [1512-number-of-good-pairs](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
+| [1512-number-of-good-pairs](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1512-number-of-good-pairs) |
 ## Quickselect
 |  |
 | ------- |
