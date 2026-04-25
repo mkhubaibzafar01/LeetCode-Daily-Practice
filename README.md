@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0283-move-zeroes) |
 ## Math
