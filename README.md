@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0394-decode-string) |
 | [0771-jewels-and-stones](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0771-jewels-and-stones) |
+| [1108-defanging-an-ip-address](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1108-defanging-an-ip-address) |
 ## Rolling Hash
 |  |
 | ------- |
