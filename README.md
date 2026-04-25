@@ -143,10 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
@@ -191,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0051-n-queens) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
