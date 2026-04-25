@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0239-sliding-window-maximum) |
 ## Matrix
 |  |
 | ------- |
@@ -170,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0394-decode-string) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
