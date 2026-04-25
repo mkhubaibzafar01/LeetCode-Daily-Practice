@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
@@ -109,4 +112,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
