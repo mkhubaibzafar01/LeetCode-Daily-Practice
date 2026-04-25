@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Stack
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -73,12 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0035-search-insert-position) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
