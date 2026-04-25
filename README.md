@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0056-merge-intervals) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0189-rotate-array) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0073-set-matrix-zeroes) |
 ## Recursion
 |  |
