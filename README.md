@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0217-contains-duplicate) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
