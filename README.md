@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0394-decode-string) |
+| [0771-jewels-and-stones](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0771-jewels-and-stones) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
