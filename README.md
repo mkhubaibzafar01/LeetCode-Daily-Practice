@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0066-plus-one) |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0239-sliding-window-maximum) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
