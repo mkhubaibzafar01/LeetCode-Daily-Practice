@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0189-rotate-array) |
 | [1512-number-of-good-pairs](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1512-number-of-good-pairs) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Tree
 |  |
