@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0986-interval-list-intersections) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1512-number-of-good-pairs) |
+| [1992-find-all-groups-of-farmland](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1992-find-all-groups-of-farmland) |
 ## Math
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1992-find-all-groups-of-farmland](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1992-find-all-groups-of-farmland) |
 ## Recursion
 |  |
 | ------- |
@@ -248,10 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [1992-find-all-groups-of-farmland](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1992-find-all-groups-of-farmland) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1992-find-all-groups-of-farmland](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1992-find-all-groups-of-farmland) |
 ## Graph Theory
 |  |
 | ------- |
