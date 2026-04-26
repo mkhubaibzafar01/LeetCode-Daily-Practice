@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0986-interval-list-intersections](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0986-interval-list-intersections) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0654-maximum-binary-tree](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0654-maximum-binary-tree) |
 | [0890-find-and-replace-pattern](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0890-find-and-replace-pattern) |
+| [0986-interval-list-intersections](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0986-interval-list-intersections) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1512-number-of-good-pairs) |
 ## Math
@@ -276,5 +278,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
 Learning GitHub Badges today!
