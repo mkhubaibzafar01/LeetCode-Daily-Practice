@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0394-decode-string) |
+| [0654-maximum-binary-tree](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0654-maximum-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0654-maximum-binary-tree](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0654-maximum-binary-tree) |
 | [0890-find-and-replace-pattern](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0890-find-and-replace-pattern) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1512-number-of-good-pairs) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0042-trapping-rain-water) |
+| [0654-maximum-binary-tree](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0654-maximum-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0654-maximum-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -261,11 +265,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0654-maximum-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0654-maximum-binary-tree) |
 ## Counting Sort
 |  |
 | ------- |
