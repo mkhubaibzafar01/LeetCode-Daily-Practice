@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0394-decode-string) |
 | [0771-jewels-and-stones](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0791-custom-sort-string) |
 | [1108-defanging-an-ip-address](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1678-goal-parser-interpretation) |
 ## Rolling Hash
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0791-custom-sort-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1512-number-of-good-pairs) |
 ## Sorting
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0791-custom-sort-string](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0791-custom-sort-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
