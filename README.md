@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0191-number-of-1-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0191-number-of-1-bits](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
