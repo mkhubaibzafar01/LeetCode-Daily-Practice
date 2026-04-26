@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0394-decode-string) |
 | [0654-maximum-binary-tree](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0654-maximum-binary-tree) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0654-maximum-binary-tree](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0654-maximum-binary-tree) |
 ## Divide and Conquer
 |  |
