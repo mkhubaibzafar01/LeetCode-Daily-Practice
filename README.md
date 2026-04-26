@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0890-find-and-replace-pattern) |
 | [1108-defanging-an-ip-address](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1108-defanging-an-ip-address) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1678-goal-parser-interpretation](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1678-goal-parser-interpretation) |
 ## Rolling Hash
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0890-find-and-replace-pattern) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1512-number-of-good-pairs) |
 ## Sorting
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1512-number-of-good-pairs) |
 ## Quickselect
 |  |
