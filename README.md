@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0394-decode-string](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0394-decode-string) |
 ## Queue
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0141-linked-list-cycle) |
 ## Merge Sort
 |  |
