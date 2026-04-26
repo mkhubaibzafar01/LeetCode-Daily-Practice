@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0072-edit-distance) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0072-edit-distance) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0055-jump-game) |
 ## Prefix Sum
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0044-wildcard-matching) |
 | [0394-decode-string](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0394-decode-string) |
 ## Queue
 |  |
