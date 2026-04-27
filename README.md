@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0575-distribute-candies) |
 | [0654-maximum-binary-tree](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0654-maximum-binary-tree) |
 | [0890-find-and-replace-pattern](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0890-find-and-replace-pattern) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0506-relative-ranks) |
 | [0791-custom-sort-string](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0791-custom-sort-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
