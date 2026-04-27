@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0125-valid-palindrome) |
 | [0212-word-search-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0212-word-search-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
