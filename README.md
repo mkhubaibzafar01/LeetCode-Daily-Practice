@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0691-stickers-to-spell-word) |
 | [0890-find-and-replace-pattern](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0890-find-and-replace-pattern) |
 | [0986-interval-list-intersections](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0986-interval-list-intersections) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1512-number-of-good-pairs) |
 | [1992-find-all-groups-of-farmland](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1992-find-all-groups-of-farmland) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0691-stickers-to-spell-word) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0887-super-egg-drop](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0887-super-egg-drop) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Greedy
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0134-gas-station) |
 | [0561-array-partition](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0561-array-partition) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Prefix Sum
 |  |
 | ------- |
