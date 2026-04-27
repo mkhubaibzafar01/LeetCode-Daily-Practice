@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0125-valid-palindrome) |
+| [0212-word-search-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0434-number-of-segments-in-a-string) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0189-rotate-array) |
+| [0212-word-search-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0238-product-of-array-except-self) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0212-word-search-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1992-find-all-groups-of-farmland](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1992-find-all-groups-of-farmland) |
 ## Recursion
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0077-combinations) |
+| [0212-word-search-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0212-word-search-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -368,5 +372,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
 Learning GitHub Badges today!
