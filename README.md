@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0575-distribute-candies) |
 | [0654-maximum-binary-tree](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0654-maximum-binary-tree) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0791-custom-sort-string) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Monotonic Stack
 |  |
 | ------- |
