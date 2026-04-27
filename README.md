@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0268-missing-number) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Binary Search
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0887-super-egg-drop](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0887-super-egg-drop) |
 ## Greedy
 |  |
@@ -327,11 +329,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1992-find-all-groups-of-farmland](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/1992-find-all-groups-of-farmland) |
 ## Graph Theory
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Topological Sort
 |  |
 | ------- |
@@ -379,5 +383,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0212-word-search-ii) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
 Learning GitHub Badges today!
