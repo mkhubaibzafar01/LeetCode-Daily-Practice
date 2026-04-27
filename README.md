@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0575-distribute-candies) |
 | [0654-maximum-binary-tree](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0654-maximum-binary-tree) |
 | [0890-find-and-replace-pattern](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0890-find-and-replace-pattern) |
 | [0986-interval-list-intersections](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0986-interval-list-intersections) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/mkhubaibzafar01/LeetCode-Daily-Practice/tree/master/0890-find-and-replace-pattern) |
